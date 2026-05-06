@@ -73,4 +73,4 @@ Map colours follow a **RdYlGn diverging 5-bin ramp** anchored to the rating rang
 
 ## License
 
-Data: public domain via [Kaggle](https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings). Visualisation code: MIT.
+Visualisation code: MIT.
